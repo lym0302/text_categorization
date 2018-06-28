@@ -1,9 +1,9 @@
 # text categorization
 
-This code achieve Chinese text categorization
+This code use cnn to achieve Chinese text categorization
 Operating environment: Ubuntu16.04 Python3.6.3
 
-train execute:
+train execute to get model:
 
 ```python
 python3 tc.py train

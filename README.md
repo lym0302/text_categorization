@@ -1,6 +1,7 @@
 # text categorization
 
 This code use cnn to achieve Chinese text categorization
+
 Operating environment: Ubuntu16.04 Python3.6.3
 
 train execute to get model:
